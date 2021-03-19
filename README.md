@@ -10,8 +10,9 @@ Talks I've given:
 - Mar 2020: An introduction to NLP (TBD!)
 
 💬 Ask me about...
-- ⚖️ AI Ethics
-- 🖋️ Natural Language Processing
+- ⚖️ AI ethics
+- 🖋️ Natural language processing
+- 📈 Interactive data science app development in Rshiny, Streamlit, or Dash
 
 📫 Where can you find me:  
 - [LinkedIn](https://www.linkedin.com/in/alexandra-saizan/)
