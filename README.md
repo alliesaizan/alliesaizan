@@ -12,7 +12,7 @@ Talks I've given:
 💬 Ask me about...
 - ⚖️ AI ethics
 - 🖋️ Natural language processing
-- 📈 Interactive data science app development in Rshiny, Streamlit, or Dash
+- 📈 Interactive data science app development in R Shiny, Streamlit, or Dash
 
 📫 Where can you find me:  
 - [LinkedIn](https://www.linkedin.com/in/alexandra-saizan/)
