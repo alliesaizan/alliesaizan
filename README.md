@@ -1,16 +1,21 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**alliesaizan/alliesaizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Allie Saizan, and I am a data scientist with 5+ years of experience.
+- 🌎 I currently live in the Washington, DC area
+- 💻 I am a Senior Consultant at Guidehouse, where I primarily serve national security agencies and am building out an AI practice
+- 🤖 I am a Machine Learning volunteer at [Community Insight and Impact](https://github.com/community-insight-impact), where I've developed a longtiduinal analysis of community vulnerability metrics
 
-Here are some ideas to get you started:
+Talks I've given:
+- Oct 2019: [A very spooky Women Who Code DC lightning talk](https://github.com/alliesaizan/spooky-lightning-talk)
+- Mar 2020: An introduction to NLP (TBD!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about...
+- ⚖️ AI Ethics
+- 🖋️ Natural Language Processing
+
+📫 Where can you find me:  
+- [LinkedIn](https://www.linkedin.com/in/alexandra-saizan/)
+- [Twitter](https://twitter.com/AllieSaizan)
+- [Blog](https://alliesaizan.github.io) (Note: this blog is under development!)
+
+⚡ Fun fact: I always wear 🧦 to bed, no matter the season
