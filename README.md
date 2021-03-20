@@ -8,7 +8,7 @@ My name is Allie Saizan, and I am a data scientist with 5+ years of experience.
 
 Talks I've given:
 - Oct 2019: [A very spooky Women Who Code DC lightning talk](https://github.com/alliesaizan/spooky-lightning-talk)
-- Mar 2020: An introduction to NLP (TBD!)
+- Mar 2020: [An introduction to NLP for 2021 Tech,Rebalanced](https://docs.google.com/presentation/d/1W16lNSxOFYsYf4FmTj9QXxJ6yTNwK8aYNK8K74yHpzE/edit?usp=sharing)
 
 💬 Ask me about...
 - ⚖️ AI ethics
