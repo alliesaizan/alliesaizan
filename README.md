@@ -2,7 +2,7 @@
 
 My name is Allie Saizan, and I am a data scientist with 5+ years of experience.
 - 🌎 I currently live in the Washington, DC area
-- 💻 I am a Senior Consultant at Guidehouse, where I primarily serve national security agencies and am building out an AI practice. I am the responsible AI lead for our AI and Automation solution.
+- 💻 I am a Senior Consultant at Guidehouse, where I primarily serve national security agencies and am building out an AI practice. I am the responsible AI lead for our AI and Automation team.
 - 🤖 I am a Machine Learning volunteer at [Community Insight and Impact](https://github.com/community-insight-impact), where I've developed a longtiduinal analysis of community vulnerability metrics
 - 👩 My pronouns are she/her
 
