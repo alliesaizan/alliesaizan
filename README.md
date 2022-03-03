@@ -6,9 +6,11 @@ My name is Allie Saizan, and I am a data scientist with 5+ years of experience.
 - 🤖 I am a Machine Learning volunteer at [Community Insight and Impact](https://github.com/community-insight-impact), where I've developed a longtiduinal analysis of community vulnerability metrics
 - 👩 My pronouns are she/her 
 
-Talks I've given:
+What I am proudest of:
 - Oct 2019: [A very spooky Women Who Code DC lightning talk](https://github.com/alliesaizan/spooky-lightning-talk)
+- Oct 2019: [The Millenials Question](https://pudding.cool/2019/09/millennials/)
 - Mar 2021: [An introduction to NLP for 2021 Tech,Rebalanced](https://docs.google.com/presentation/d/1W16lNSxOFYsYf4FmTj9QXxJ6yTNwK8aYNK8K74yHpzE/edit?usp=sharing)
+- Dec 2021: [Revisiting the Boston Housing Dataset](https://fairlearn.org/main/user_guide/datasets/boston_housing_data.html)
 
 💬 Ask me about...
 - ⚖️ AI ethics
