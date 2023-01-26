@@ -19,7 +19,6 @@ My talks/writing:
 
 📫 Where can you find me:  
 - [LinkedIn](https://www.linkedin.com/in/alexandra-saizan/)
-- [Twitter](https://twitter.com/AllieSaizan)
 - [Blog](https://alliesaizan.github.io) (Note: this blog is under development!)
 
 ⚡ Fun fact: I always wear 🧦 to bed, no matter the season
