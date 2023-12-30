@@ -22,4 +22,4 @@ My talks/writing:
 - [LinkedIn](https://www.linkedin.com/in/alexandra-saizan/)
 - [Blog](https://alliesaizan.github.io) (Note: this blog is under development!)
 
-⚡ Fun fact: I always wear 🧦 to bed, no matter the season
+⚡ Fun fact: I always wear 🧦 at night, no matter the season
