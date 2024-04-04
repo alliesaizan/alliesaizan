@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
-My name is Allie Saizan, and I am a data scientist with 5+ years of experience.
-- 🌎 I currently live in the Washington, DC area
+My name is Alexandra ("Allie") Saizan, and I am a data scientist with nearly a decade of experience.
+- 🌎 I currently live in the Washington, DC metro area
 - 💻 I am a data science manager on the Responsible AI team at Accenture
 - 👩🏽‍💻 I am a maintainer of the [Fairlearn package](https://github.com/fairlearn/fairlearn)
 - 🤖 I am a machine learning volunteer at [Community Insight and Impact](https://github.com/community-insight-impact), where I've developed a longtiduinal analysis of community vulnerability metrics
